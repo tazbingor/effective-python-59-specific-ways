@@ -6,5 +6,6 @@
 # @File    : bytes_str_unicode.py
 # @Software: PyCharm
 '''
+bytes,str,unicode 的区别
 
 '''
